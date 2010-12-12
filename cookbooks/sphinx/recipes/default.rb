@@ -4,10 +4,10 @@
 #
 
 # Set your application name here
-appname = "appname"
+appname = "Trenchy2"
 
 # Uncomment the flavor of sphinx you want to use
-#flavor = "thinking_sphinx"
+flavor = "thinking_sphinx"
 #flavor = "ultrasphinx"
 
 # If you want to install on a specific utility instance rather than
