@@ -25,7 +25,7 @@ utility_name = nil
 #
 # If you don't want scheduled reindexes, just leave this set to nil.
 # Setting it equal to 10 would run the cron job every 10 minutes.
-cron_interval = 10
+cron_interval = nil
 
 if utility_name
   if ['solo', 'app', 'app_master'].include?(node[:instance_role])
