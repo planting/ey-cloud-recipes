@@ -4,7 +4,7 @@
 #
 
 # Set your application name here
-appname = "Trenchy2"
+appname = "Trenchy"
 
 # Uncomment the flavor of sphinx you want to use
 flavor = "thinking_sphinx"
